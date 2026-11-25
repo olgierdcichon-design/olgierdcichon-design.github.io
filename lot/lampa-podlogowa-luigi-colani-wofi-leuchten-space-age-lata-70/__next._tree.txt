@@ -1,7 +1,0 @@
-:HL["/_next/static/chunks/3mc3r8gye9gbb.css","style"]
-:HL["/_next/static/media/65341aea9fb91af5-s.p.1dqa_6e_ad4sj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/e1f600cb732239d9-s.p.1mvr14jy3vxq7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-3:[["children",{"s":"__PAGE__","h":160}]]
-2:[["children",{"s":{"n":"slug","t":"d","k":"lampa-podlogowa-luigi-colani-wofi-leuchten-space-age-lata-70","s":[]},"h":65632,"c":"$Q3"}]]
-1:[["children",{"s":"lot","h":131136,"c":"$Q2"}]]
-0:{"b":"iFs138UefMOQQnvdOD3CG","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}

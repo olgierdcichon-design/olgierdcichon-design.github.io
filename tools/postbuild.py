@@ -55,7 +55,6 @@ BRANDS = {
     'lampa-stolowa-kot-z-klebkiem-welny-heico-niemcy-lata-80': 'Heico',
     'lampka-nocna-mis-heico-pomaranczowa-lata-80': 'Heico',
     'talerz-okolicznosciowy-kaiser-pfalzbau-ludwigshafen-niemcy-1968': 'Kaiser',
-    'lampa-podlogowa-luigi-colani-wofi-leuchten-space-age-lata-70': 'Wofi Leuchten',
     'fotel-zen-claude-brisson-ligne-roset-francja-lata-80': 'Ligne Roset',
     'fotel-zen-claude-brisson-ligne-roset-francja-1984': 'Ligne Roset',
     '2-kinkiety-ceramiczne-pan-leuchten-fat-lava-lata-70': 'Pan Leuchten',
