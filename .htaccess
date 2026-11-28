@@ -11,11 +11,6 @@ DirectorySlash On
 # helper scripts are not part of the website
 RedirectMatch 404 ^/(tools/|\.sloy-postbuild)
 
-# >>> STAGING-NOINDEX (removed by tools/go_live.py – do not edit this block by hand)
-<IfModule mod_headers.c>
-  Header set X-Robots-Tag "noindex"
-</IfModule>
-# <<< STAGING-NOINDEX
 
 <IfModule mod_rewrite.c>
 RewriteEngine On
